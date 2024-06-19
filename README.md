@@ -1,6 +1,6 @@
 # Deferred Acceptance Algorithm
 
-![Alt Text](https://github.com/Skyler-Guha/skyler-guha.github.io/blob/main/assets/images/deferred-acceptance-algorithm-demo.gif)
+![Alt Text](deferred-acceptance-algorithm-demo.gif)
 
 - This is an educational/utility program free for all.
 - It shows the Deferred Acceptance Algorithm in action.
